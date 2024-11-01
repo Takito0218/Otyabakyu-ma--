@@ -1,0 +1,8 @@
+diff a/My project/.vsconfig b/My project/.vsconfig	(rejected hunks)
+@@ -1,6 +0,0 @@
+-{
+-  "version": "1.0",
+-  "components": [
+-    "Microsoft.VisualStudio.Workload.ManagedGame"
+-  ]
+-}
